@@ -1,4 +1,4 @@
-[![MasterHead](https://cdna.artstation.com/p/assets/images/images/060/558/020/original/anna-teather-fantasy-bk-anim.gif?1678825942)
+![MasterHead](https://cdna.artstation.com/p/assets/images/images/060/558/020/original/anna-teather-fantasy-bk-anim.gif?1678825942)
 <h1 align="center">Hi 👋 Welcome to my profile!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamoudyy&label=Profile%20views&color=0e75b6&style=flat" alt="hamoudyy" /> </p>
 
